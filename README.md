@@ -4,7 +4,7 @@
 
 <h1> 1. Pinoy Pinay </h1>
      <p>If you're looking for classic and quick Filipino food, Pinoy Pinay is the place to go. Pinoy Pinay has a range of selections of traditional filipino foods at low prices, starting at $8 for a single entree plate! Combo plates are a fan favorite, where you can choose up to two sides (of either a pork, chicken, or beef dish) with rice at a low price of $12.50. Pinoy Pinay also offers catering of all their delectable dishes! This Filipino fast food restaurant has multiple traditional filipino dishes to offer, such as lechon kawalli, sisig, kaldareta, kare-kare, sinigang, and many more. Have a sweet tooth? Pinoy Pinay also has  a variety of filipino desserts, such as halo-halo, turon, bibingka, leche flan, ube halaya, and more sweet cravings you'll enjoy. With a wide range of dishes to offer, Pinoy Pinay is the place to go to get some authentic filipino food or try more food from the culture. </p> 
-     <br>https://pinoypinayfastfood.com/menu/</br>
+   https://pinoypinayfastfood.com/menu/<br>
     
   <img src="https://github.com/raphaflores/5-Filipino-Restaurants-You-Should-Visit/assets/145702236/b41581b3-4781-4659-9fa3-45b09c1ae664" width="275" height="184"> 
     <img src="https://github.com/raphaflores/5-Filipino-Restaurants-You-Should-Visit/assets/145702236/43598627-23a6-4d3e-a1e0-37833f3d8bda" width="275" height="184"> 
