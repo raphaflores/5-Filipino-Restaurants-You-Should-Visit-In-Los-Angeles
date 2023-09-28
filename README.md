@@ -44,7 +44,7 @@
 <img src="https://s3-media0.fl.yelpcdn.com/bphoto/-1pZRJCQmRiIBq5PGXE8Jg/348s.jpg" width="275" height="184">
 <img src="https://images.squarespace-cdn.com/content/v1/56e88a2fb654f971f80f72bc/ab1771ff-d76b-4bab-a62a-46d8b4dea2c6/DSC_3332.jpg" width="275" height="184">
 
-<h1> Noy Pitz </h1>
+<h1> 5. Noy Pitz </h1>
     <p>Noy Pitz is my all-time favorite filipino restaurant in Cerritos. Opened by Larry Calonzo and Michael Kwan in April 2018 in West Covina, their restaurant has expanded to different parts of the U.S. Some best-sellers include their sizzling pork sisig and their crispy pata. If you aren't a pork lover, they also have beef, chicken, and seafood. Vegetarian? Noypitz also offers traditional filipino vegetable dishes, such as pinakbet, ginataang sitaw at kalabasa, and adobong sitaw. They also have different soups, rice, noodles, and house specials. On top of that, their wide-range of desserts stands out in comparison to many filipino restaurants I have visited. Their halo-halo is a huge cup with ice, condensed milk, ube ice cream, and assorted toppings such as fruits, jelly, and beans. At night, a band plays for entertainment while you eat your food. There's also a bar if you want to get a drink or two after your meal! </p>
     <a href=" https://thenoypitzcerritos.com/"></a> <br>
     
