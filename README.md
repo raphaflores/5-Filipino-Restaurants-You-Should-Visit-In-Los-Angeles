@@ -54,4 +54,5 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeS02qMycelF_P8TX9kEnpzK89zih9HAcsXhs24UqhVJcMRrNV9LEKhnCvo9MqTHKAV30&usqp=CAU" width="275" height="184">
 <img src="https://thenoypitzcerritos.com/wp-content/uploads/sites/123/2021/02/eiliv-sonas-aceron-Q-5eUQwEqm0-unsplash-790x1080.jpg" width="275" height="184">
 <br>
-If you are looking for a culinary experience or just want to try new filipino foods, you HAVE to try these 5 filipino restaurants in Los Angeles! From mouthwatering dishes to traditional filipino comfort foods, these restaurants will surely satisfy your cravings. Masarap!
+<br>
+If you are looking for a culinary experience or just want to try new filipino foods, you HAVE to try these 5 filipino restaurants in Los Angeles! From mouthwatering dishes to traditional filipino comfort foods, these restaurants will surely satisfy your cravings. <b>Masarap!</b>
